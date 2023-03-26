@@ -12,7 +12,7 @@ Files
 <b>The files included in this project are:</b>
 
 airbnb_seattle.csv: the dataset used in this analysis
-airbnb_data_analysis.ipynb: a Jupyter notebook containing the Python code for the analysis
+Untitled.ipynb: a Jupyter notebook containing the Python code for the analysis
 README.md: this file
 Libraries Used
 
