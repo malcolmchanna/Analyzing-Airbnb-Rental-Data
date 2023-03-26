@@ -1,7 +1,7 @@
 # Analyzing-Airbnb-Rental-Data
 An exploratory data analysis of Airbnb rental data for Seattle, including data cleaning, visualization, and insights on pricing trends and popular locations.
 
-<h2> Project Objectives</h2>
+<b> Project Objectives</b>
 
 The objectives of this project are:
 To explore the dataset and gain insights into the rental market in Seattle
@@ -26,5 +26,5 @@ Matplotlib
 Based on the analysis of Airbnb rental data for Seattle, we found that the average price per night is $XX.XX and the most expensive location is XX. We also found that XX is the most popular room type and XX is the most common property type.
 
 <h2>Acknowledgments</h2>
-The dataset used in this analysis is provided by Airbnb and can be found [here](https://www.kaggle.com/datasets/airbnb/seattle)
-.
+The dataset used in this analysis is provided by Airbnb and can be found  <a href="https://www.kaggle.com/datasets/airbnb/seattle">heree</a>
+
